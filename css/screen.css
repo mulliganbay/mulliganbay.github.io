@@ -672,3 +672,8 @@ footer {
 
 .cms-editor-active nav .editor-link {
   display: inline; }
+
+/*Cognito Forms Style*/
+.cognito {text-align:center;}
+.cognito .c-forms-form{display:inline-block;}
+.cognito .c-field {text-align:left;min-width:300px;}
