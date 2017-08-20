@@ -674,6 +674,6 @@ footer {
   display: inline; }
 
 /*Cognito Forms Style*/
-/*.cognito {text-align:center;}*/
+.cognito {text-align:left;}
 .cognito .c-forms-form{display:inline-block;}
 .cognito .c-field {text-align:left;min-width:300px;}
